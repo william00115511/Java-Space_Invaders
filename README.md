@@ -38,7 +38,6 @@ A classic Space Invaders implementation developed in Java utilizing the standard
    ```bash
    java -jar SpaceInvaders.jar
    ```
-4. Alternatively, execute the bundled `StartGame.bat` script for instant deployment.
 
 ### Input Mapping
 * **Arrow Left / Right**: Translate horizontal coordinates
@@ -105,7 +104,6 @@ A classic Space Invaders implementation developed in Java utilizing the standard
    ```bash
    java -jar SpaceInvaders.jar
    ```
-4. 或直接雙擊附帶之 `StartGame.bat` 腳本進行快速部署。
 
 ### 系統輸入對應
 * **左 / 右方向鍵**：水平對應座標移動
